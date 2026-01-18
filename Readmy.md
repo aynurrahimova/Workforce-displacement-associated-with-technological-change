@@ -1,3 +1,7 @@
+README
+
+**Author:** Aynur Rahimova
+
 # Workforce Displacement & Technological Change
 ###  Project Title:
 
@@ -102,3 +106,8 @@ This project demonstrates how global technology adoption—proxied through semic
 - Handling non-linear and real-world data
 - Managing overfitting in tree-based models
 - Communicating socio-economic insights from machine learning results
+- 
+## Contact Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/aynur-rahimova-839078225)  
+- 🐙 [GitHub](https://github.com/aynurrahimova/bank-transaction-fraud-detection-ml)
+- 📧 Email: raynur.ar@gmail.com
