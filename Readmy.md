@@ -109,5 +109,6 @@ This project demonstrates how global technology adoption—proxied through semic
 - 
 ## Contact Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/aynur-rahimova-839078225)  
-- 🐙 [GitHub](https://github.com/aynurrahimova/bank-transaction-fraud-detection-ml)
+- 🐙 [GitHub](https://github.com/aynurrahimova/Workforce-displacement-associated-with-technological-change)
 - 📧 Email: raynur.ar@gmail.com
+
